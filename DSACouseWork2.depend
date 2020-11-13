@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1579509111 source:c:\users\acer\desktop\dsacw2\dsacousework2\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<windows.h>
+	<string>
+	<stdlib.h>
+	<conio.h>
+
